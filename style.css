@@ -1,0 +1,5 @@
+body{font-family:Arial;background:#eafbf1;display:flex;justify-content:center;padding:30px}
+.card{background:white;padding:25px;border-radius:15px;width:400px;box-shadow:0 4px 15px rgba(0,0,0,0.1)}
+h1{color:#0e9f4e;text-align:center}
+h2{text-align:center}
+p{margin:10px 0}
